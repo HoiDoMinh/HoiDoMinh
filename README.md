@@ -1,4 +1,5 @@
-👋 Hi, I’m Minh Hoi  
+## About me
+👋 Hi, I’m Do Minh Hoi  
 🎓 I’m a Computer Engineering student majoring in VLSI Design at UIT – VNU HCM  
 🔧 Passionate about digital design, embedded systems, and hardware development.
 
