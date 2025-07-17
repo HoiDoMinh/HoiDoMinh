@@ -38,17 +38,14 @@
 
 ## 🕹️ Fun Zone – Snake Game 🐍
 
-> Try out this classic Snake game right inside GitHub!
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LongBaoCoder2/LongBaoCoder2/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+## 🕹️ Mini Game – T-Rex Runner 🦖
+
+> A simple Chrome-style dinosaur jumping game built with HTML5 Canvas.
+
+[🎮 Play the Game](https://ominhhoi.github.io/trex-game/)  
+<img src="https://i.imgur.com/N0sZ3zd.png" width="600" alt="Game Preview"/>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ominhhoi&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ominhhoi&theme=dark" />
-</p>
