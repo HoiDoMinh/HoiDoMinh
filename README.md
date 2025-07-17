@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="robot typing">
+ <img width="1109" height="612" alt="image" src="https://github.com/user-attachments/assets/2f3386aa-56a8-42e4-9eec-04994b0c6bf5" />
 </p>
+
 
 ## About Me
 👋 Hi, I’m Do Minh Hoi  
