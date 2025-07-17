@@ -1,6 +1,7 @@
 <p align="center">
- <img width="1109" height="612" alt="image" src="https://github.com/user-attachments/assets/2f3386aa-56a8-42e4-9eec-04994b0c6bf5" />
+  <img src="https://github.com/HoiDoMinh/aichipanimation.gif?raw=true" width="300" />
 </p>
+
 
 
 ## About Me
