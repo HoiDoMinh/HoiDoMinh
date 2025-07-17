@@ -1,20 +1,8 @@
-<p align="center">
-  <img src="https://i.imgur.com/eMaNF0x.gif" width="200" alt="Coder Fox">
-</p>
-
-<h1 align="center">Hi there, I'm Hoi 👋</h1>
-<p align="center">A passionate Computer Engineering student specializing in VLSI, Embedded Systems, and Digital Design.</p>
-
----
 
 ## 🙋‍♂️ About Me
-
-- 🎓 I'm **Do Minh Hoi** – a student at **UIT – VNU HCM**  
-- 💡 I major in **VLSI Design & Verification**  
-- 🔧 Interests: **Digital Logic, FPGA, Embedded Systems, SoC Design**
-- 🌱 Currently learning: **SystemVerilog, UVM, and advanced SoC design**
-- 🛠️ Side Projects: STM32, Verilog-based mini-processors, LCD control, etc.
-
+👋 Hi, I’m Do Minh Hoi  
+🎓 I’m a Computer Engineering student majoring in VLSI Design & Verification at UIT – VNU HCM  
+🔧 Passionate about digital design, embedded systems, and hardware development.
 ---
 
 ## 🌐 Connect With Me
