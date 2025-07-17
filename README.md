@@ -1,5 +1,5 @@
 
-## 🙋‍♂️ About Me
+## About Me
 👋 Hi, I’m Do Minh Hoi  
 🎓 I’m a Computer Engineering student majoring in VLSI Design & Verification at UIT – VNU HCM  
 🔧 Passionate about digital design, embedded systems, and hardware development.
@@ -34,18 +34,4 @@
 ![TCL](https://img.shields.io/badge/Scripting-TCL-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Version--Control-Git-orange?style=for-the-badge)
 
----
-
-## 🕹️ Fun Zone – Snake Game 🐍
-
----
-
-## 🕹️ Mini Game – T-Rex Runner 🦖
-
-> A simple Chrome-style dinosaur jumping game built with HTML5 Canvas.
-
-[🎮 Play the Game](https://ominhhoi.github.io/trex-game/)  
-<img src="https://i.imgur.com/N0sZ3zd.png" width="600" alt="Game Preview"/>
-
----
 
