@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/HoiDoMinh/aichipanimation.gif?raw=true" width="300" />
-</p>
-
-
 
 ## About Me
 👋 Hi, I’m Do Minh Hoi  
