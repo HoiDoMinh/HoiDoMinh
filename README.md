@@ -1,8 +1,8 @@
 
 ## About Me
 👋 Hi, I’m Do Minh Hoi  
-🎓 I’m a Computer Engineering student majoring in VLSI Design & Verification at UIT – VNU HCM  
-🔧 Passionate about digital design, embedded systems, and hardware development.
+🎓 I’m a Computer Engineering student at UIT – VNU HCM  
+🔧 Passionate about design verification,logic & rtl design,...
 ---
 
 ## 🌐 Connect With Me
