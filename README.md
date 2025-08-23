@@ -2,7 +2,7 @@
 ## About Me
 👋 Hi, I’m Do Minh Hoi  
 🎓 I’m a Computer Engineering-VLSI student at UIT – VNU HCM  
-🔧 Passionate about rtl desgin,logic & digital design and desgin verification.
+🔧 Passionate about RTL Desgin,Logic & Digital Design and Desgin Verification.
 ---
 
 ## 🌐 Connect With Me
