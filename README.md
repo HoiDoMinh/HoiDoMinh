@@ -20,11 +20,6 @@
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-green?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/Verification-UVM-orange?style=for-the-badge)
 
-### Embedded Systems
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/MCU-STM32-lightblue?style=for-the-badge)
-![Keil](https://img.shields.io/badge/IDE-Keil-blue?style=for-the-badge)
-
 ### FPGA & Design Tools
 ![Quartus](https://img.shields.io/badge/Intel-Quartus-blue?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Xilinx-Vivado-red?style=for-the-badge)
