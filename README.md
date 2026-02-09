@@ -1,8 +1,8 @@
 
 ## About Me
-👋 Hi, I’m Do Minh Hoi.
-💼 Integrated Circuit Design at VBtech Vietnam.
-🎓 I’m a Computer Engineering-Integrated Circuit Design student at UIT – VNU HCM.
+👋 HI, I’M DO MINH HOI.<br>
+💼 INTEGRATED CIRCUIT DESIGN AT VBTECH VIETNAM.<br>
+🎓 I’M A COMPUTER ENGINEERING-INTEGRATED CIRCUIT DESIGN STUDENT AT UIT – VNU HCM.
 
 ---
 
