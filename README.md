@@ -1,9 +1,9 @@
 
 ## About Me
 👋 Hi, I’m Do Minh Hoi.
-🎓 I’m a Computer Engineering-Integrated Circuit Design student at UIT – VNU HCM.
-🔧 Passionate about RTL Design, Logic & Digital Design, and Design Verification.
 💼 Integrated Circuit Design at VBtech Vietnam.
+🎓 I’m a Computer Engineering-Integrated Circuit Design student at UIT – VNU HCM.
+
 ---
 
 ## 🌐 Connect With Me
